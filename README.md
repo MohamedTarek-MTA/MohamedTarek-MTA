@@ -40,14 +40,15 @@
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedTarek-MTA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedTarek-MTA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedTarek-MTA&theme=tokyonight&hide_border=true" alt="Mohamed's Streak" height="150"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedTarek-MTA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=MohamedTarek-MTA&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedTarek-MTA&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ### 📫 Contact Me
