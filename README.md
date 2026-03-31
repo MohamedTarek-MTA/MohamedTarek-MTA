@@ -25,12 +25,12 @@
 
 ### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,django,php" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,django,php,expressjs" />
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,reactjs" />
 </p>
 
 ### 🗄️ Databases
