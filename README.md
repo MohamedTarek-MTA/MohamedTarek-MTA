@@ -25,7 +25,7 @@
 
 ### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,django,php,expressjs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,django,php,nodejs,expressjs" />
 </p>
 
 ### 🌐 Frontend
@@ -35,7 +35,7 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 </p>
 
