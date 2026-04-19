@@ -35,7 +35,7 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 </p>
 
